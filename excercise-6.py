@@ -10,3 +10,7 @@
 # We are including the solution but you have to update the code in Python 3.    
 
 # Hints:    The built-in document method is doc
+
+print(abs.__doc__)
+print(int.__doc__)
+print(print.__doc__)
